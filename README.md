@@ -34,7 +34,9 @@ Data Analysis, Conditional Formatting, Data Validation, VLOOKUP, PivotTables, Ma
 
 Data Science & Analytics (HP-life)
 •AI for Beginners (HP-life)
+
 •Supply Chain Management: A Learning Perspective (Coursera)
+
 •SQL(Basic)(Hacker rank)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrunmayiViz&hide=TeX&layout=compact)
