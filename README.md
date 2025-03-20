@@ -32,9 +32,10 @@ Data Analysis, Conditional Formatting, Data Validation, VLOOKUP, PivotTables, Ma
 
 <h1 style="font-size: 3rem">CERTIFICATIONS:</h1>
 
-- Full Stack Data Science and AI from NareshITechnologies
-- Advanced Excel from Bits & Bytes.
-- PANDAS for Asolute Beginners from UDEMY
+Data Science & Analytics (HP-life)
+•AI for Beginners (HP-life)
+•Supply Chain Management: A Learning Perspective (Coursera)
+•SQL(Basic)(Hacker rank)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrunmayiViz&hide=TeX&layout=compact)
 
